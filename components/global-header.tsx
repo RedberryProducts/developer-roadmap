@@ -95,7 +95,7 @@ export function GlobalHeader(props: GlobalHeaderProps) {
 
   return (
     <Box bg={variant === 'solid' ? 'gray.900' : 'transparent'} p='20px 0'>
-      <Container maxW='container.md'>
+      {/*<Container maxW='container.md'>
         <Flex justifyContent='space-between' alignItems='center'>
           <Box>
             <Link w='100%'
@@ -113,7 +113,7 @@ export function GlobalHeader(props: GlobalHeaderProps) {
           <DesktopMenuLinks />
           <MobileMenuLinks />
         </Flex>
-      </Container>
+      </Container>*/}
     </Box>
   );
 }
