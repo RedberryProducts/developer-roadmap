@@ -1,5 +1,6 @@
 {
-  "name": "roadmap-next",
+  "name": "developer-roadmap",
+  "homepage": "https://redberryproducts.github.io/developer-roadmap/",
   "version": "0.1.0",
   "private": true,
   "license": "BSD-4-Clause",
